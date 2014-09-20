@@ -24,6 +24,17 @@ div {
 
 img {
 	width: 400px;
+	position: relative;
+}
+
+#img_color {
+	background-color: #FF69B4;
+	position: relative;
+	float: left;
+	width: 400px;
+	height: 267px;
+	top: -267px;
+	opacity: 0;
 }
 
 a {
