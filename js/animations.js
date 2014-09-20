@@ -7,11 +7,11 @@ function bindEvents() {
 }
 
 function flashTrever() {
-	 $("#flash").fadeToggle(500);
+	$("#trever").fadeToggle("fast").fadeToggle("fast").fadeToggle("fast").fadeToggle("fast");
 }
 
 function slideTrever() {
-	
+
 }
 
 function colorTrever() {
